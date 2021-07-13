@@ -1,4 +1,4 @@
-# news-recommendation  
+# News Recommendation  
 The project is to predict 5 articles for each user according to the user click history and user features. Analyzed on user-news interaction data from a news App released by Alibaba Cloud TIANCHI Competition and built an algorithm in Python to predict five articles with ranking a user would click.   
 
 The project includes parts:  
